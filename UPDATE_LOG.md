@@ -1,9 +1,5 @@
 # UPDATE LOG
 
-## v0.2.0
-
-first commit
-
-## v0.1.0
+## v0.1.1
 
 init
