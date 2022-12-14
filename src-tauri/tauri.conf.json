@@ -1,0 +1,85 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/schema.json",
+  "build": {
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devPath": "https://app.geekhub.com",
+    "distDir": "https://app.geekhub.com"
+  },
+  "package": {
+    "productName": "geekhub",
+    "version": "2.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": true,
+      "fs": {
+        "scope": [
+          "$HOME/devtauri/geekhubapp/*"
+        ]
+      },
+      "globalShortcut": {
+        "all": true
+      }
+    },
+    "bundle": {
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "geekhub",
+      "deb": {
+        "depends": []
+      },
+      "externalBin": [],
+      "icon": [
+        "icons/32x32.png",
+        "icons/128x128.png",
+        "icons/128x128@2x.png",
+        "icons/icon.icns",
+        "icons/icon.ico"
+      ],
+      "identifier": "com.geekhub.app",
+      "longDescription": "geekhub desktop all",
+      "macOS": {
+        "entitlements": null,
+        "exceptionDomain": "",
+        "frameworks": [],
+        "providerShortName": null,
+        "signingIdentity": null
+      },
+      "resources": [],
+      "shortDescription": "",
+      "targets": "all",
+      "windows": {
+        "certificateThumbprint": null,
+        "digestAlgorithm": "sha256",
+        "timestampUrl": ""
+      }
+    },
+    "security": {
+      "csp": null
+    },
+    "updater": {
+      "active": true,
+      "dialog": true,
+      "endpoints": [
+        "https://geekhub-app.github.io/geekhub-app/install.json"
+      ],
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEFBQjY4QUI5QkVBNkM2RTAKUldUZ3hxYSt1WXEycWhONTJPUS9LMDdheTg4Z1NsVUV4YzREcWJJbWc0VUluTWErUmY1dHlWWlEK"
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "width": 1180,
+        "height": 960,
+        "resizable": true,
+        "center": false,
+        "title": "geekhub",
+        "hiddenTitle": true,
+        "titleBarStyle": "Overlay",
+        "acceptFirstMouse": true,
+        "decorations": true,
+        "transparent": false
+      }
+    ]
+  }
+}

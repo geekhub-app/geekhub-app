@@ -1,0 +1,20 @@
+{
+  "name": "geekhub",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "tr": "tr",
+    "updater": "tr updater",
+    "release": "tr release --git",
+    "fix:linux": "tr override --name=geekhub"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@actions/github": "^5.1.1",
+    "@tauri-apps/cli": "^1.2.1",
+    "@tauri-release/cli": "^0.2.3",
+    "node-fetch": "^3.3.0"
+  }
+}
