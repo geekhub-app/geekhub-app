@@ -12,7 +12,18 @@
   },
   "tauri": {
     "allowlist": {
-      "all": true,
+      "window": {
+        "all": true
+      },
+      "dialog": {
+        "all": true
+      },
+      "process": {
+        "all": true
+      },
+      "app": {
+        "all": true
+      },
       "fs": {
         "scope": [
           "$HOME/devtauri/geekhubapp/*"
@@ -56,7 +67,6 @@
       }
     },
     "security": {
-      "csp": null,
       "dangerousDisableAssetCspModification": true
     },
     "updater": {
