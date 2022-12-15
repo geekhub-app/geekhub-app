@@ -67,7 +67,9 @@
       }
     },
     "security": {
-      "dangerousDisableAssetCspModification": true
+      "csp": "default-src blob: data: filesystem: ws: wss: http: https: tauri: 'unsafe-eval' 'unsafe-inline' 'self' img-src: 'self'",
+      "devCsp": null,
+      "dangerousDisableAssetCspModification": false
     },
     "updater": {
       "active": true,
@@ -79,6 +81,7 @@
     },
     "windows": [
       {
+        "userAgent": "deskapp",
         "fullscreen": false,
         "width": 1180,
         "height": 960,
