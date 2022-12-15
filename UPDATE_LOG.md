@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.1.6
+
+config modify
+
 ## v0.1.5
 
 auto update
