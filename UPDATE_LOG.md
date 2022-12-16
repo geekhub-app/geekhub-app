@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.2
+
+icon set
+
 ## v0.2.1
 
 shadow plugin
