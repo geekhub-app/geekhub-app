@@ -8,12 +8,13 @@ use window_shadows::set_shadow;
 
 fn main() {
     tauri::Builder::default()
+        .system_tray(tauri::SystemTray::default())
         .plugin(tauri_plugin_window_state::Builder::default().build())
         .setup(|app| {
             let window = app.get_window("main").unwrap();
             set_shadow(&window, true).expect("Unsupported platform!");
             Ok(())
-        })
+        })  
         .run(tauri::generate_context!())
-        .expect("error while running tauri application");
+        .expect("error while running tauri application")
 }
