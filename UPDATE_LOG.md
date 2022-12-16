@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.1
+
+shadow plugin
+
 ## v0.2.0
 
 shadow plugin
