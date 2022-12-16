@@ -61,14 +61,16 @@
       "shortDescription": "",
       "targets": "all",
       "windows": {
+        "wix": {
+          "language": "zh-CN"
+        },
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": ""
       }
     },
     "security": {
-      "csp": "default-src blob: data: filesystem: ws: wss: http: https: tauri: 'unsafe-eval' 'unsafe-inline' 'self' img-src: 'self'",
-      "devCsp": null,
+      "csp": "default-src 'self'; img-src *",
       "dangerousDisableAssetCspModification": false
     },
     "updater": {
