@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.0
+
+shadow plugin
+
 ## v0.1.9
 
 position plugin
