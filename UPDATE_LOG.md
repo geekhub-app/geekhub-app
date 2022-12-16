@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.3
+
+config
+
 ## v0.2.2
 
 icon set
