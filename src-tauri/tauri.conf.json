@@ -70,7 +70,6 @@
       }
     },
     "security": {
-      "csp": "default-src blob: data: filesystem: ws: wss: http: https: tauri: 'unsafe-eval' 'unsafe-inline' 'self' img-src: 'self', 'app.geekhub.com', 'cdn.geekhub.com', 'playgram.oss-cn-shanghai.aliyuncs.com'"
     },
     "systemTray": {
       "iconPath": "icons/icon.png",

@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.5
+
+csp config
+
 ## v0.2.4
 
 csp config
