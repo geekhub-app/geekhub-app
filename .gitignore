@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 yarn.lock
 app-icon.png
+.github
 
 dist
 node_modules
