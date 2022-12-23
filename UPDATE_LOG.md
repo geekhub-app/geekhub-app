@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.6
+
+Version bump
+
 ## v0.2.5
 
 csp config

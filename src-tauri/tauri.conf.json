@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "geekhub",
-    "version": "0.2.5"
+    "version": "0.2.6"
   },
   "tauri": {
     "allowlist": {
@@ -79,7 +79,7 @@
       "dialog": true,
       "endpoints": [
         "https://app.geekhub.com/releases/install.json",
-        "https://geekhub-app.github.io/geekhub-app/install.json" 
+        "https://geekhub-app.github.io/geekhub-app/install.json"
       ],
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEFBQjY4QUI5QkVBNkM2RTAKUldUZ3hxYSt1WXEycWhONTJPUS9LMDdheTg4Z1NsVUV4YzREcWJJbWc0VUluTWErUmY1dHlWWlEK"
     },
