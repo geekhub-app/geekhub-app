@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "geekhub",
-    "version": "0.2.6"
+    "version": "0.2.7"
   },
   "tauri": {
     "allowlist": {
@@ -31,6 +31,12 @@
       },
       "globalShortcut": {
         "all": true
+      },
+      "shell": {
+        "all": true,
+        "execute": true,
+        "sidecar": true,
+        "open": true
       }
     },
     "bundle": {

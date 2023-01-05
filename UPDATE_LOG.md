@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.7
+
+shell api
+
 ## v0.2.6
 
 Version bump
