@@ -1,0 +1,35 @@
+{
+  "version": "v0.2.7",
+  "notes": "shell api",
+  "pub_date": "2023-01-05T09:45:18.570Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWtUNktWcTl4VnJBc2RxQ0toYUNmRHMvYVZaTXl5RkZ5WUJtcys0QW9qZUI2a3UzaUhWbnZLdlluR2FCSjUxOHpYU3pMRXRaOUdtVGVrY2lOVXp1UWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExODg3CWZpbGU6Z2Vla2h1Yl8wLjIuN194NjRfemgtQ04ubXNpLnppcAoyODNOUW9PeTJBRlRobjRRU0ZWNlJrVnNsd2FMM05Gell4a1JFcU1wK2pkZEV5dTNISHNJLzBCaUtBc2VaWDc4cytmSFBMbWdDbGdoSjBiVWV1MmpBZz09Cg==",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub_0.2.7_x64_zh-CN.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycXRjWHREY1hHS2Q0QjlIYVI1aW9YSjMvaUt3ZzRVTjdVUU5jVkR1Y0JkaVZOTmMvRDN0RlB3eXdvTGU3ekd1bDMyWkw4VzdOVzJtVG1xbkRHNCsvVkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExNzcyCWZpbGU6Z2Vla2h1Yl8wLjIuN19hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKTzc4ZFhZVFlmcW0zMm1wakdYRzd5VENKN3EvaVRxYVVweEZKR1BmZkpzRC9LWEs4RDEydU9QM1ZVcFNoM2N5YUo3MU1mQ29uazg5Zm5rc0lRbmVXRHc9PQo=",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub_0.2.7_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWowOHZMa3UrTktDalJyNXM1SjUrWEptVGRZSjVUa0hiczVxT05LYzBsdloyQnN6bEVFK3hLN01mV3FLd2NQRURxTnVGaHlkTzZLR1VDbzV6ZlVSRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExNjU2CWZpbGU6Z2Vla2h1Yi5hcHAudGFyLmd6ClYwYVc4WmszdWljUHBPQmhIYWFUVHRvcUdZOGZ6UERlRTduSTZxcUhPbjBHTzZNM2VLc3dUMTNpMHl2aXBGWkg2aGs2Vzc4cXBIS2RyajRuT3pnb0J3PT0K",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWowOHZMa3UrTktDalJyNXM1SjUrWEptVGRZSjVUa0hiczVxT05LYzBsdloyQnN6bEVFK3hLN01mV3FLd2NQRURxTnVGaHlkTzZLR1VDbzV6ZlVSRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExNjU2CWZpbGU6Z2Vla2h1Yi5hcHAudGFyLmd6ClYwYVc4WmszdWljUHBPQmhIYWFUVHRvcUdZOGZ6UERlRTduSTZxcUhPbjBHTzZNM2VLc3dUMTNpMHl2aXBGWkg2aGs2Vzc4cXBIS2RyajRuT3pnb0J3PT0K",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWowOHZMa3UrTktDalJyNXM1SjUrWEptVGRZSjVUa0hiczVxT05LYzBsdloyQnN6bEVFK3hLN01mV3FLd2NQRURxTnVGaHlkTzZLR1VDbzV6ZlVSRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExNjU2CWZpbGU6Z2Vla2h1Yi5hcHAudGFyLmd6ClYwYVc4WmszdWljUHBPQmhIYWFUVHRvcUdZOGZ6UERlRTduSTZxcUhPbjBHTzZNM2VLc3dUMTNpMHl2aXBGWkg2aGs2Vzc4cXBIS2RyajRuT3pnb0J3PT0K",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycXRjWHREY1hHS2Q0QjlIYVI1aW9YSjMvaUt3ZzRVTjdVUU5jVkR1Y0JkaVZOTmMvRDN0RlB3eXdvTGU3ekd1bDMyWkw4VzdOVzJtVG1xbkRHNCsvVkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExNzcyCWZpbGU6Z2Vla2h1Yl8wLjIuN19hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKTzc4ZFhZVFlmcW0zMm1wakdYRzd5VENKN3EvaVRxYVVweEZKR1BmZkpzRC9LWEs4RDEydU9QM1ZVcFNoM2N5YUo3MU1mQ29uazg5Zm5rc0lRbmVXRHc9PQo=",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub_0.2.7_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWtUNktWcTl4VnJBc2RxQ0toYUNmRHMvYVZaTXl5RkZ5WUJtcys0QW9qZUI2a3UzaUhWbnZLdlluR2FCSjUxOHpYU3pMRXRaOUdtVGVrY2lOVXp1UWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyOTExODg3CWZpbGU6Z2Vla2h1Yl8wLjIuN194NjRfemgtQ04ubXNpLnppcAoyODNOUW9PeTJBRlRobjRRU0ZWNlJrVnNsd2FMM05Gell4a1JFcU1wK2pkZEV5dTNISHNJLzBCaUtBc2VaWDc4cytmSFBMbWdDbGdoSjBiVWV1MmpBZz09Cg==",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.7/geekhub_0.2.7_x64_zh-CN.msi.zip"
+    }
+  }
+}
