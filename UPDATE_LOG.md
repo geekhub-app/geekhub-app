@@ -1,5 +1,9 @@
 # UPDATE LOG
 
+## v0.2.8
+
+User agent update
+
 ## v0.2.7
 
 shell api

@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "geekhub",
-    "version": "0.2.7"
+    "version": "0.2.8"
   },
   "tauri": {
     "allowlist": {
@@ -91,9 +91,8 @@
     },
     "windows": [
       {
-        "userAgent": "deskapp",
         "fullscreen": false,
-        "width": 1180,
+        "width": 1160,
         "height": 960,
         "resizable": true,
         "center": false,
