@@ -7,7 +7,7 @@
     "distDir": "https://app.geekhub.com"
   },
   "package": {
-    "productName": "geekhub",
+    "productName": "Playgram",
     "version": "0.2.8"
   },
   "tauri": {
@@ -42,7 +42,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "geekhub",
+      "copyright": "Playgram",
       "deb": {
         "depends": []
       },
@@ -54,8 +54,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.geekhub.app",
-      "longDescription": "geekhub desktop all",
+      "identifier": "com.playgram.app",
+      "longDescription": "playgram desktop app",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -78,7 +78,8 @@
     "security": {},
     "systemTray": {
       "iconPath": "icons/icon.png",
-      "iconAsTemplate": false
+      "iconAsTemplate": false,
+      "menuOnLeftClick": false
     },
     "updater": {
       "active": true,
@@ -96,7 +97,7 @@
         "height": 960,
         "resizable": true,
         "center": false,
-        "title": "geekhub",
+        "title": "playgram",
         "hiddenTitle": true,
         "titleBarStyle": "Overlay",
         "acceptFirstMouse": true,

@@ -1,7 +1,7 @@
 {
-  "author": "geekhub",
+  "author": "playgram",
   "license": "NONE",
-  "name": "geekhub",
+  "name": "playgram",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "tr": "tr",
     "updater": "tr updater",
     "release": "tr release --git",
-    "fix:linux": "tr override --name=geekhub"
+    "fix:linux": "tr override --name=playgram"
   },
   "dependencies": {},
   "devDependencies": {

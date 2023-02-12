@@ -1,4 +1,7 @@
 # UPDATE LOG
+## v0.2.9
+
+system tray config change.
 
 ## v0.2.8
 
