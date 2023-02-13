@@ -79,7 +79,7 @@
     "systemTray": {
       "iconPath": "icons/icon.png",
       "iconAsTemplate": false,
-      "menuOnLeftClick": false
+      "menuOnLeftClick": true
     },
     "updater": {
       "active": true,
@@ -102,7 +102,8 @@
         "titleBarStyle": "Overlay",
         "acceptFirstMouse": true,
         "decorations": true,
-        "transparent": false
+        "transparent": false,
+        "fileDropEnabled": false
       }
     ]
   }
