@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.13
+
+StoreGPT LOGO.
+
 ## v0.2.12
 
 StoreGPT Test Release.
