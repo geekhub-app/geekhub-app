@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.14
+
+Delete chat window.
+
 ## v0.2.13
 
 StoreGPT LOGO.
