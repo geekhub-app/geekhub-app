@@ -1,1 +1,1 @@
-# geekhub-app
+# storegpt-app
