@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.11
+
+Test release.
+
 ## v0.2.10
 
 system tray config.
