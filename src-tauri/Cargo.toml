@@ -1,11 +1,11 @@
 [package]
-name = "playgram"
+name = "storegpt"
 version = "0.1.0"
-description = "playgram info"
+description = "storegpt info"
 authors = ["PlanZ"]
 license = ""
 repository = ""
-default-run = "playgram"
+default-run = "storegpt"
 edition = "2021"
 rust-version = "1.59"
 

@@ -4,10 +4,10 @@
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
     "devPath": "http://localhost:3000",
-    "distDir": "https://app.geekhub.com"
+    "distDir": "https://storegpt.ai"
   },
   "package": {
-    "productName": "Playgram",
+    "productName": "StoreGPT",
     "version": "0.2.11"
   },
   "tauri": {
@@ -71,7 +71,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "Playgram",
+      "copyright": "StoreGPT",
       "deb": {
         "depends": []
       },
@@ -83,8 +83,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.playgram.app",
-      "longDescription": "playgram desktop app",
+      "identifier": "com.storegpt.app",
+      "longDescription": "storegpt desktop app",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -126,7 +126,7 @@
         "height": 960,
         "resizable": true,
         "center": false,
-        "title": "playgram",
+        "title": "StoreGPT",
         "hiddenTitle": true,
         "titleBarStyle": "Overlay",
         "acceptFirstMouse": true,

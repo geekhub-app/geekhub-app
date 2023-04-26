@@ -1,7 +1,7 @@
 {
-  "author": "playgram",
+  "author": "cybrain",
   "license": "NONE",
-  "name": "playgram",
+  "name": "StoreGPT",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "tr": "tr",
     "updater": "tr updater",
     "release": "tr release --git",
-    "fix:linux": "tr override --name=playgram"
+    "fix:linux": "tr override --name=StoreGPT"
   },
   "dependencies": {},
   "devDependencies": {
