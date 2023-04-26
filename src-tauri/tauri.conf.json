@@ -133,13 +133,6 @@
         "decorations": true,
         "transparent": false,
         "fileDropEnabled": false
-      },
-      {
-        "label": "chatgpt",
-        "title": "ChatGPT",
-        "url": "https://chat.openai.com/chat",
-        "width": 450,
-        "height": 600
       }
     ]
   }
