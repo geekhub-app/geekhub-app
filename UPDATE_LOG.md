@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.16
+
+StoreGPT ICON
+
 ## v0.2.15
 
 StoreGPT icon.
