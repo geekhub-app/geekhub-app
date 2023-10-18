@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.18
+
+Upgrade to 1.5
+
 ## v0.2.17
 
 ZenNote
