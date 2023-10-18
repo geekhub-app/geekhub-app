@@ -4,10 +4,10 @@
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
     "devPath": "http://localhost:3000",
-    "distDir": "https://storegpt.ai"
+    "distDir": "http://172.233.89.86"
   },
   "package": {
-    "productName": "StoreGPT",
+    "productName": "ZenNote",
     "version": "0.2.16"
   },
   "tauri": {
@@ -71,7 +71,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "StoreGPT",
+      "copyright": "ZenNote",
       "deb": {
         "depends": []
       },
@@ -83,8 +83,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.storegpt.app",
-      "longDescription": "storegpt desktop app",
+      "identifier": "ai.zennote.app",
+      "longDescription": "zennote desktop app",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",

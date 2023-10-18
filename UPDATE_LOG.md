@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.17
+
+ZenNote
+
 ## v0.2.16
 
 StoreGPT ICON
