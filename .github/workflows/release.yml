@@ -13,7 +13,7 @@ jobs:
       RELEASE_UPLOAD_ID: ${{ steps.create_release.outputs.id }}
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Query version number
         id: get_version
         shell: bash
@@ -40,7 +40,7 @@ jobs:
 
     runs-on: ${{ matrix.platform }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Setup node
         uses: actions/setup-node@v1
@@ -91,7 +91,7 @@ jobs:
         run: |
           yarn fix:linux
 
-      - uses: tauri-apps/tauri-action@v0.3
+      - uses: tauri-apps/tauri-action@v0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TAURI_PRIVATE_KEY: ${{ secrets.TAURI_PRIVATE_KEY }}
@@ -111,7 +111,7 @@ jobs:
     needs: [create-release, build-tauri]
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: yarn
       - run: yarn updater --token=${{ secrets.GITHUB_TOKEN }}
 
