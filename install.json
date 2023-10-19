@@ -1,0 +1,35 @@
+{
+  "version": "v0.2.22",
+  "notes": "upgrade",
+  "pub_date": "2023-10-19T02:47:09.291Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycW9meW9jMUp6cFkrVG5BNHQ3cUZBRldkTDk3Zm9aUjI2M0VoZW1YT01EMVhDR0ZTbDBST0JIYXBZYnA1SENmUUtRbmxCTjF6M3VrZ1pJNnZjTVA4U2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzNjAzCWZpbGU6WmVuTm90ZV8wLjIuMjJfeDY0X3poLUNOLm1zaS56aXAKeEVFd1B1Tis3VDl0WnJ0VFFKemErb1FwZWp2aVRNVXlJUVNEQ25DWllLdGQ1NVpDVnZuZTlHYTJuUDM5ZHpFU3FTdlBSb0pxUjBydXQ5RHNQTWc2RHc9PQo=",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/ZenNote_0.2.22_x64_zh-CN.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWtIVzhwRk1xQU14MGdTb1dJVm5xRW5DOFFnQ2ZlcUt0cjg2WlpzUG1lNmYyQm5MSXFTUWtmK0RsdlJ4WDZnRUZxcmZBVFpsZUxSaW9kbUx1bWp1N0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzNDc4CWZpbGU6emVuLW5vdGVfMC4yLjIyX2FtZDY0LkFwcEltYWdlLnRhci5negpGRTg0ZnljaERGT2VuWVZFcXI1dTBaSS9xanRJenZSOEYvT2xsUHJpQktCQy9FR1RxY09JcHZNL0pGZFJRSFQzYlJ0bUFyRSsrWFc3R0VMaVhtenhEdz09Cg==",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/zen-note_0.2.22_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycXRESFViWmk3ZHRYYkY5bzJISVkvbm1LNSt3OW9Ld2xyR2FCVDlXOEJPdkFCRlFjTS9tSlhxeGNDODdtbDJiV09hbE9BdVZOUkc0alg2NHlrWEN5V2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzMzU5CWZpbGU6WmVuTm90ZS5hcHAudGFyLmd6Cm5XOERIVi9rZUxVVnpxTzNQeENidzl6bFBlUFdLVEZCOVcvdlR6aWVBQ3dMTEg1K25tL3I1V21LSzhYek43MGFtQkJYcUlrSjNERFNIQW5qTFlGMUJ3PT0K",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/ZenNote_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycXRESFViWmk3ZHRYYkY5bzJISVkvbm1LNSt3OW9Ld2xyR2FCVDlXOEJPdkFCRlFjTS9tSlhxeGNDODdtbDJiV09hbE9BdVZOUkc0alg2NHlrWEN5V2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzMzU5CWZpbGU6WmVuTm90ZS5hcHAudGFyLmd6Cm5XOERIVi9rZUxVVnpxTzNQeENidzl6bFBlUFdLVEZCOVcvdlR6aWVBQ3dMTEg1K25tL3I1V21LSzhYek43MGFtQkJYcUlrSjNERFNIQW5qTFlGMUJ3PT0K",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/ZenNote_x64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycXRESFViWmk3ZHRYYkY5bzJISVkvbm1LNSt3OW9Ld2xyR2FCVDlXOEJPdkFCRlFjTS9tSlhxeGNDODdtbDJiV09hbE9BdVZOUkc0alg2NHlrWEN5V2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzMzU5CWZpbGU6WmVuTm90ZS5hcHAudGFyLmd6Cm5XOERIVi9rZUxVVnpxTzNQeENidzl6bFBlUFdLVEZCOVcvdlR6aWVBQ3dMTEg1K25tL3I1V21LSzhYek43MGFtQkJYcUlrSjNERFNIQW5qTFlGMUJ3PT0K",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/ZenNote_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycWtIVzhwRk1xQU14MGdTb1dJVm5xRW5DOFFnQ2ZlcUt0cjg2WlpzUG1lNmYyQm5MSXFTUWtmK0RsdlJ4WDZnRUZxcmZBVFpsZUxSaW9kbUx1bWp1N0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzNDc4CWZpbGU6emVuLW5vdGVfMC4yLjIyX2FtZDY0LkFwcEltYWdlLnRhci5negpGRTg0ZnljaERGT2VuWVZFcXI1dTBaSS9xanRJenZSOEYvT2xsUHJpQktCQy9FR1RxY09JcHZNL0pGZFJRSFQzYlJ0bUFyRSsrWFc3R0VMaVhtenhEdz09Cg==",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/zen-note_0.2.22_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3hxYSt1WXEycW9meW9jMUp6cFkrVG5BNHQ3cUZBRldkTDk3Zm9aUjI2M0VoZW1YT01EMVhDR0ZTbDBST0JIYXBZYnA1SENmUUtRbmxCTjF6M3VrZ1pJNnZjTVA4U2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjgzNjAzCWZpbGU6WmVuTm90ZV8wLjIuMjJfeDY0X3poLUNOLm1zaS56aXAKeEVFd1B1Tis3VDl0WnJ0VFFKemErb1FwZWp2aVRNVXlJUVNEQ25DWllLdGQ1NVpDVnZuZTlHYTJuUDM5ZHpFU3FTdlBSb0pxUjBydXQ5RHNQTWc2RHc9PQo=",
+      "url": "https://github.com/geekhub-app/geekhub-app/releases/download/v0.2.22/ZenNote_0.2.22_x64_zh-CN.msi.zip"
+    }
+  }
+}
