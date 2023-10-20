@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "ZenNote",
-    "version": "0.2.25"
+    "version": "0.2.26"
   },
   "tauri": {
     "allowlist": {
@@ -55,7 +55,7 @@
       },
       "fs": {
         "scope": [
-          "$HOME/devtauri/geekhubapp/*"
+          "$HOME/devtauri/zennoteapp/*"
         ]
       },
       "globalShortcut": {
@@ -86,7 +86,7 @@
       "identifier": "ai.zennote.app",
       "longDescription": "zennote desktop app",
       "macOS": {
-        "entitlements": "zennote",
+        "entitlements": "ZenNote",
         "exceptionDomain": "",
         "frameworks": [],
         "providerShortName": null,
