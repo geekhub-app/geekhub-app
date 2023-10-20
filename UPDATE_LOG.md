@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.23
+
+set entitlements for macos.
+
 ## v0.2.22
 
 upgrade
