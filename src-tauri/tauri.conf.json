@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "ZenNote",
-    "version": "0.2.24"
+    "version": "0.2.25"
   },
   "tauri": {
     "allowlist": {

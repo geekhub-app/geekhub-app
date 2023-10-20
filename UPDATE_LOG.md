@@ -1,4 +1,8 @@
 # UPDATE LOG
+## v0.2.25
+
+upgrade
+
 ## v0.2.24
 
 upgrade
